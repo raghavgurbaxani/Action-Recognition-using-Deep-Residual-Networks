@@ -6,7 +6,7 @@ The model requires about 15-18 hours to train on GPU
 
 The full output is given in the  output.out file. 
 
-## Sample Output - 
+### Sample Output - 
 
 ('Fencing', 0.97058821, 34.0)
 ('Kayaking', 0.97222221, 36.0)
