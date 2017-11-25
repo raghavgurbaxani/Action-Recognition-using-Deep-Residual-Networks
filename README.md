@@ -1,7 +1,10 @@
 # Action Recognition using Deep Residual Networks
 
+The dataset can be found here http://crcv.ucf.edu/data/UCF101.php
 
 The model requires about 15-18 hours to train on GPU 
+
+The full output is given in the  output.out file. 
 
 ## Sample Output - 
 
