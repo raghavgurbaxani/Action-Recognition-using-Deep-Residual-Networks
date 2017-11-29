@@ -6,6 +6,9 @@ The model requires about 15-18 hours to train on GPU
 
 The full output is given in the  output.out file. 
 
+![untitled1](https://user-images.githubusercontent.com/32988039/33385948-7b0ab7ec-d4ef-11e7-90d9-f309ac699d8d.png)
+
+
 ### Sample Output - 
 
 ('Fencing', 0.97058821, 34.0)
