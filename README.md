@@ -36,3 +36,6 @@ The full output is given in the  output.out file.
 ('WritingOnBoard', 1.0, 45.0)
 ('PlayingSitar', 1.0, 44.0)
 ('TableTennisShot', 1.0, 39.0)
+
+## Acknowledgement
+The Resnet code has been borrowed from https://github.com/ry/tensorflow-resnet
